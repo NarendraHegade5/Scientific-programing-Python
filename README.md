@@ -1,2 +1,2 @@
-# Scientific programing Python
+# Scientific programing using Python
  Scientific programing with python, collection of notebooks
